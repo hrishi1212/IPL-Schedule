@@ -1,0 +1,790 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+TZ:+00
+BEGIN:VEVENT
+DTSTART:20200919T140000Z
+DTEND:20200919T170000Z
+DTSTAMP:20200923T065958Z
+UID:1278912@fixturedownload.com
+CREATED:20200907T130438Z
+DESCRIPTION:Mumbai Indians vs Chennai Super Kings\nIndian Premier League 2020 Round 1\nSheikh Zayed Stadium\n19/09/2020 19:30 (UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi
+LAST-MODIFIED:20200922T081543Z
+LOCATION:Sheikh Zayed Stadium
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Mumbai Indians vs Chennai Super Kings - Indian Premier League 2020 Round 1
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200920T140000Z
+DTEND:20200920T170000Z
+DTSTAMP:20200923T065958Z
+UID:1278913@fixturedownload.com
+CREATED:20200907T130438Z
+DESCRIPTION:Delhi Capitals vs Kings XI Punjab\nIndian Premier League 2020 Round 1\nDubai International Cricket Stadium\n20/09/2020 19:30 (UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi
+LAST-MODIFIED:20200922T081544Z
+LOCATION:Dubai International Cricket Stadium
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Delhi Capitals vs Kings XI Punjab - Indian Premier League 2020 Round 1
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200921T140000Z
+DTEND:20200921T170000Z
+DTSTAMP:20200923T065958Z
+UID:1278914@fixturedownload.com
+CREATED:20200907T130438Z
+DESCRIPTION:Sunrisers Hyderabad vs Royal Challengers Bangalore\nIndian Premier League 2020 Round 1\nDubai International Cricket Stadium\n21/09/2020 19:30 (UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi
+LAST-MODIFIED:20200922T081544Z
+LOCATION:Dubai International Cricket Stadium
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Sunrisers Hyderabad vs Royal Challengers Bangalore - Indian Premier League 2020 Round 1
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200922T140000Z
+DTEND:20200922T170000Z
+DTSTAMP:20200923T065958Z
+UID:1278915@fixturedownload.com
+CREATED:20200907T130438Z
+DESCRIPTION:Rajasthan Royals vs Chennai Super Kings\nIndian Premier League 2020 Round 1\nSharjah Cricket Stadium\n22/09/2020 19:30 (UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi
+LAST-MODIFIED:20200922T081544Z
+LOCATION:Sharjah Cricket Stadium
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Rajasthan Royals vs Chennai Super Kings - Indian Premier League 2020 Round 1
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200923T140000Z
+DTEND:20200923T170000Z
+DTSTAMP:20200923T065958Z
+UID:1278916@fixturedownload.com
+CREATED:20200907T130438Z
+DESCRIPTION:Kolkata Knight Riders vs Mumbai Indians\nIndian Premier League 2020 Round 1\nSheikh Zayed Stadium\n23/09/2020 19:30 (UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi
+LAST-MODIFIED:20200922T081544Z
+LOCATION:Sheikh Zayed Stadium
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Kolkata Knight Riders vs Mumbai Indians - Indian Premier League 2020 Round 1
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200924T140000Z
+DTEND:20200924T170000Z
+DTSTAMP:20200923T065958Z
+UID:1278917@fixturedownload.com
+CREATED:20200907T130438Z
+DESCRIPTION:Kings XI Punjab vs Royal Challengers Bangalore\nIndian Premier League 2020 Round 1\nDubai International Cricket Stadium\n24/09/2020 19:30 (UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi
+LAST-MODIFIED:20200922T081544Z
+LOCATION:Dubai International Cricket Stadium
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Kings XI Punjab vs Royal Challengers Bangalore - Indian Premier League 2020 Round 1
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200925T140000Z
+DTEND:20200925T170000Z
+DTSTAMP:20200923T065958Z
+UID:1278918@fixturedownload.com
+CREATED:20200907T130438Z
+DESCRIPTION:Chennai Super Kings vs Delhi Capitals\nIndian Premier League 2020 Round 1\nDubai International Cricket Stadium\n25/09/2020 19:30 (UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi
+LAST-MODIFIED:20200922T081544Z
+LOCATION:Dubai International Cricket Stadium
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Chennai Super Kings vs Delhi Capitals - Indian Premier League 2020 Round 1
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200926T140000Z
+DTEND:20200926T170000Z
+DTSTAMP:20200923T065958Z
+UID:1278919@fixturedownload.com
+CREATED:20200907T130438Z
+DESCRIPTION:Kolkata Knight Riders vs Sunrisers Hyderabad\nIndian Premier League 2020 Round 1\nSheikh Zayed Stadium\n26/09/2020 19:30 (UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi
+LAST-MODIFIED:20200922T081544Z
+LOCATION:Sheikh Zayed Stadium
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Kolkata Knight Riders vs Sunrisers Hyderabad - Indian Premier League 2020 Round 1
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200927T140000Z
+DTEND:20200927T170000Z
+DTSTAMP:20200923T065958Z
+UID:1278920@fixturedownload.com
+CREATED:20200907T130438Z
+DESCRIPTION:Rajasthan Royals vs Kings XI Punjab\nIndian Premier League 2020 Round 2\nSharjah Cricket Stadium\n27/09/2020 19:30 (UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi
+LAST-MODIFIED:20200907T130438Z
+LOCATION:Sharjah Cricket Stadium
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Rajasthan Royals vs Kings XI Punjab - Indian Premier League 2020 Round 2
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200928T140000Z
+DTEND:20200928T170000Z
+DTSTAMP:20200923T065958Z
+UID:1278921@fixturedownload.com
+CREATED:20200907T130438Z
+DESCRIPTION:Royal Challengers Bangalore vs Mumbai Indians\nIndian Premier League 2020 Round 2\nDubai International Cricket Stadium\n28/09/2020 19:30 (UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi
+LAST-MODIFIED:20200907T130438Z
+LOCATION:Dubai International Cricket Stadium
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Royal Challengers Bangalore vs Mumbai Indians - Indian Premier League 2020 Round 2
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200929T140000Z
+DTEND:20200929T170000Z
+DTSTAMP:20200923T065958Z
+UID:1278922@fixturedownload.com
+CREATED:20200907T130438Z
+DESCRIPTION:Delhi Capitals vs Sunrisers Hyderabad\nIndian Premier League 2020 Round 2\nSheikh Zayed Stadium\n29/09/2020 19:30 (UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi
+LAST-MODIFIED:20200907T130438Z
+LOCATION:Sheikh Zayed Stadium
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Delhi Capitals vs Sunrisers Hyderabad - Indian Premier League 2020 Round 2
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20200930T140000Z
+DTEND:20200930T170000Z
+DTSTAMP:20200923T065958Z
+UID:1278923@fixturedownload.com
+CREATED:20200907T130438Z
+DESCRIPTION:Rajasthan Royals vs Kolkata Knight Riders\nIndian Premier League 2020 Round 2\nDubai International Cricket Stadium\n30/09/2020 19:30 (UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi
+LAST-MODIFIED:20200907T130438Z
+LOCATION:Dubai International Cricket Stadium
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Rajasthan Royals vs Kolkata Knight Riders - Indian Premier League 2020 Round 2
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201001T140000Z
+DTEND:20201001T170000Z
+DTSTAMP:20200923T065958Z
+UID:1278924@fixturedownload.com
+CREATED:20200907T130438Z
+DESCRIPTION:Kings XI Punjab vs Mumbai Indians\nIndian Premier League 2020 Round 2\nSheikh Zayed Stadium\n01/10/2020 19:30 (UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi
+LAST-MODIFIED:20200907T130438Z
+LOCATION:Sheikh Zayed Stadium
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Kings XI Punjab vs Mumbai Indians - Indian Premier League 2020 Round 2
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201002T140000Z
+DTEND:20201002T170000Z
+DTSTAMP:20200923T065958Z
+UID:1278925@fixturedownload.com
+CREATED:20200907T130438Z
+DESCRIPTION:Chennai Super Kings vs Sunrisers Hyderabad\nIndian Premier League 2020 Round 2\nDubai International Cricket Stadium\n02/10/2020 19:30 (UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi
+LAST-MODIFIED:20200907T130438Z
+LOCATION:Dubai International Cricket Stadium
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Chennai Super Kings vs Sunrisers Hyderabad - Indian Premier League 2020 Round 2
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201003T100000Z
+DTEND:20201003T130000Z
+DTSTAMP:20200923T065958Z
+UID:1278926@fixturedownload.com
+CREATED:20200907T130438Z
+DESCRIPTION:Royal Challengers Bangalore vs Rajasthan Royals\nIndian Premier League 2020 Round 2\nSheikh Zayed Stadium\n03/10/2020 15:30 (UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi
+LAST-MODIFIED:20200907T130438Z
+LOCATION:Sheikh Zayed Stadium
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Royal Challengers Bangalore vs Rajasthan Royals - Indian Premier League 2020 Round 2
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201003T140000Z
+DTEND:20201003T170000Z
+DTSTAMP:20200923T065958Z
+UID:1278927@fixturedownload.com
+CREATED:20200907T130438Z
+DESCRIPTION:Delhi Capitals vs Kolkata Knight Riders\nIndian Premier League 2020 Round 2\nSharjah Cricket Stadium\n03/10/2020 19:30 (UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi
+LAST-MODIFIED:20200907T130438Z
+LOCATION:Sharjah Cricket Stadium
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Delhi Capitals vs Kolkata Knight Riders - Indian Premier League 2020 Round 2
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201004T100000Z
+DTEND:20201004T130000Z
+DTSTAMP:20200923T065958Z
+UID:1278928@fixturedownload.com
+CREATED:20200907T130438Z
+DESCRIPTION:Mumbai Indians vs Sunrisers Hyderabad\nIndian Premier League 2020 Round 3\nSharjah Cricket Stadium\n04/10/2020 15:30 (UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi
+LAST-MODIFIED:20200907T130438Z
+LOCATION:Sharjah Cricket Stadium
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Mumbai Indians vs Sunrisers Hyderabad - Indian Premier League 2020 Round 3
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201004T140000Z
+DTEND:20201004T170000Z
+DTSTAMP:20200923T065958Z
+UID:1278929@fixturedownload.com
+CREATED:20200907T130438Z
+DESCRIPTION:Kings XI Punjab vs Chennai Super Kings\nIndian Premier League 2020 Round 3\nDubai International Cricket Stadium\n04/10/2020 19:30 (UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi
+LAST-MODIFIED:20200907T130438Z
+LOCATION:Dubai International Cricket Stadium
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Kings XI Punjab vs Chennai Super Kings - Indian Premier League 2020 Round 3
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201005T140000Z
+DTEND:20201005T170000Z
+DTSTAMP:20200923T065958Z
+UID:1278930@fixturedownload.com
+CREATED:20200907T130438Z
+DESCRIPTION:Royal Challengers Bangalore vs Delhi Capitals\nIndian Premier League 2020 Round 3\nDubai International Cricket Stadium\n05/10/2020 19:30 (UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi
+LAST-MODIFIED:20200907T130438Z
+LOCATION:Dubai International Cricket Stadium
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Royal Challengers Bangalore vs Delhi Capitals - Indian Premier League 2020 Round 3
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201006T140000Z
+DTEND:20201006T170000Z
+DTSTAMP:20200923T065958Z
+UID:1278931@fixturedownload.com
+CREATED:20200907T130438Z
+DESCRIPTION:Mumbai Indians vs Rajasthan Royals\nIndian Premier League 2020 Round 3\nSheikh Zayed Stadium\n06/10/2020 19:30 (UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi
+LAST-MODIFIED:20200907T130438Z
+LOCATION:Sheikh Zayed Stadium
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Mumbai Indians vs Rajasthan Royals - Indian Premier League 2020 Round 3
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201007T140000Z
+DTEND:20201007T170000Z
+DTSTAMP:20200923T065958Z
+UID:1278932@fixturedownload.com
+CREATED:20200907T130438Z
+DESCRIPTION:Kolkata Knight Riders vs Chennai Super Kings\nIndian Premier League 2020 Round 3\nSheikh Zayed Stadium\n07/10/2020 19:30 (UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi
+LAST-MODIFIED:20200907T130438Z
+LOCATION:Sheikh Zayed Stadium
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Kolkata Knight Riders vs Chennai Super Kings - Indian Premier League 2020 Round 3
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201008T140000Z
+DTEND:20201008T170000Z
+DTSTAMP:20200923T065958Z
+UID:1278933@fixturedownload.com
+CREATED:20200907T130438Z
+DESCRIPTION:Sunrisers Hyderabad vs Kings XI Punjab\nIndian Premier League 2020 Round 3\nDubai International Cricket Stadium\n08/10/2020 19:30 (UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi
+LAST-MODIFIED:20200907T130438Z
+LOCATION:Dubai International Cricket Stadium
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Sunrisers Hyderabad vs Kings XI Punjab - Indian Premier League 2020 Round 3
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201009T140000Z
+DTEND:20201009T170000Z
+DTSTAMP:20200923T065958Z
+UID:1278934@fixturedownload.com
+CREATED:20200907T130438Z
+DESCRIPTION:Rajasthan Royals vs Delhi Capitals\nIndian Premier League 2020 Round 3\nSharjah Cricket Stadium\n09/10/2020 19:30 (UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi
+LAST-MODIFIED:20200907T130438Z
+LOCATION:Sharjah Cricket Stadium
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Rajasthan Royals vs Delhi Capitals - Indian Premier League 2020 Round 3
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201010T100000Z
+DTEND:20201010T130000Z
+DTSTAMP:20200923T065958Z
+UID:1278935@fixturedownload.com
+CREATED:20200907T130438Z
+DESCRIPTION:Kings XI Punjab vs Kolkata Knight Riders\nIndian Premier League 2020 Round 3\nSheikh Zayed Stadium\n10/10/2020 15:30 (UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi
+LAST-MODIFIED:20200907T130438Z
+LOCATION:Sheikh Zayed Stadium
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Kings XI Punjab vs Kolkata Knight Riders - Indian Premier League 2020 Round 3
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201010T140000Z
+DTEND:20201010T170000Z
+DTSTAMP:20200923T065958Z
+UID:1278936@fixturedownload.com
+CREATED:20200907T130438Z
+DESCRIPTION:Chennai Super Kings vs Royal Challengers Bangalore\nIndian Premier League 2020 Round 4\nDubai International Cricket Stadium\n10/10/2020 19:30 (UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi
+LAST-MODIFIED:20200907T130438Z
+LOCATION:Dubai International Cricket Stadium
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Chennai Super Kings vs Royal Challengers Bangalore - Indian Premier League 2020 Round 4
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201011T100000Z
+DTEND:20201011T130000Z
+DTSTAMP:20200923T065958Z
+UID:1278937@fixturedownload.com
+CREATED:20200907T130438Z
+DESCRIPTION:Sunrisers Hyderabad vs Rajasthan Royals\nIndian Premier League 2020 Round 4\nDubai International Cricket Stadium\n11/10/2020 15:30 (UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi
+LAST-MODIFIED:20200907T130438Z
+LOCATION:Dubai International Cricket Stadium
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Sunrisers Hyderabad vs Rajasthan Royals - Indian Premier League 2020 Round 4
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201011T140000Z
+DTEND:20201011T170000Z
+DTSTAMP:20200923T065958Z
+UID:1278938@fixturedownload.com
+CREATED:20200907T130438Z
+DESCRIPTION:Mumbai Indians vs Delhi Capitals\nIndian Premier League 2020 Round 4\nSheikh Zayed Stadium\n11/10/2020 19:30 (UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi
+LAST-MODIFIED:20200907T130438Z
+LOCATION:Sheikh Zayed Stadium
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Mumbai Indians vs Delhi Capitals - Indian Premier League 2020 Round 4
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201012T140000Z
+DTEND:20201012T170000Z
+DTSTAMP:20200923T065958Z
+UID:1278939@fixturedownload.com
+CREATED:20200907T130438Z
+DESCRIPTION:Royal Challengers Bangalore vs Kolkata Knight Riders\nIndian Premier League 2020 Round 4\nSharjah Cricket Stadium\n12/10/2020 19:30 (UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi
+LAST-MODIFIED:20200907T130438Z
+LOCATION:Sharjah Cricket Stadium
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Royal Challengers Bangalore vs Kolkata Knight Riders - Indian Premier League 2020 Round 4
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201013T140000Z
+DTEND:20201013T170000Z
+DTSTAMP:20200923T065958Z
+UID:1278940@fixturedownload.com
+CREATED:20200907T130438Z
+DESCRIPTION:Sunrisers Hyderabad vs Chennai Super Kings\nIndian Premier League 2020 Round 4\nDubai International Cricket Stadium\n13/10/2020 19:30 (UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi
+LAST-MODIFIED:20200907T130438Z
+LOCATION:Dubai International Cricket Stadium
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Sunrisers Hyderabad vs Chennai Super Kings - Indian Premier League 2020 Round 4
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201014T140000Z
+DTEND:20201014T170000Z
+DTSTAMP:20200923T065958Z
+UID:1278941@fixturedownload.com
+CREATED:20200907T130438Z
+DESCRIPTION:Delhi Capitals vs Rajasthan Royals\nIndian Premier League 2020 Round 4\nDubai International Cricket Stadium\n14/10/2020 19:30 (UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi
+LAST-MODIFIED:20200907T130438Z
+LOCATION:Dubai International Cricket Stadium
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Delhi Capitals vs Rajasthan Royals - Indian Premier League 2020 Round 4
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201015T140000Z
+DTEND:20201015T170000Z
+DTSTAMP:20200923T065958Z
+UID:1278942@fixturedownload.com
+CREATED:20200907T130438Z
+DESCRIPTION:Royal Challengers Bangalore vs Kings XI Punjab\nIndian Premier League 2020 Round 4\nSharjah Cricket Stadium\n15/10/2020 19:30 (UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi
+LAST-MODIFIED:20200907T130438Z
+LOCATION:Sharjah Cricket Stadium
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Royal Challengers Bangalore vs Kings XI Punjab - Indian Premier League 2020 Round 4
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201016T140000Z
+DTEND:20201016T170000Z
+DTSTAMP:20200923T065958Z
+UID:1278943@fixturedownload.com
+CREATED:20200907T130438Z
+DESCRIPTION:Mumbai Indians vs Kolkata Knight Riders\nIndian Premier League 2020 Round 4\nSheikh Zayed Stadium\n16/10/2020 19:30 (UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi
+LAST-MODIFIED:20200907T130438Z
+LOCATION:Sheikh Zayed Stadium
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Mumbai Indians vs Kolkata Knight Riders - Indian Premier League 2020 Round 4
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201017T100000Z
+DTEND:20201017T130000Z
+DTSTAMP:20200923T065958Z
+UID:1278944@fixturedownload.com
+CREATED:20200907T130438Z
+DESCRIPTION:Rajasthan Royals vs Royal Challengers Bangalore\nIndian Premier League 2020 Round 5\nDubai International Cricket Stadium\n17/10/2020 15:30 (UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi
+LAST-MODIFIED:20200907T130438Z
+LOCATION:Dubai International Cricket Stadium
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Rajasthan Royals vs Royal Challengers Bangalore - Indian Premier League 2020 Round 5
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201017T140000Z
+DTEND:20201017T170000Z
+DTSTAMP:20200923T065958Z
+UID:1278945@fixturedownload.com
+CREATED:20200907T130438Z
+DESCRIPTION:Delhi Capitals vs Chennai Super Kings\nIndian Premier League 2020 Round 5\nSharjah Cricket Stadium\n17/10/2020 19:30 (UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi
+LAST-MODIFIED:20200907T130438Z
+LOCATION:Sharjah Cricket Stadium
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Delhi Capitals vs Chennai Super Kings - Indian Premier League 2020 Round 5
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201018T100000Z
+DTEND:20201018T130000Z
+DTSTAMP:20200923T065958Z
+UID:1278946@fixturedownload.com
+CREATED:20200907T130438Z
+DESCRIPTION:Sunrisers Hyderabad vs Kolkata Knight Riders\nIndian Premier League 2020 Round 5\nSheikh Zayed Stadium\n18/10/2020 15:30 (UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi
+LAST-MODIFIED:20200907T130438Z
+LOCATION:Sheikh Zayed Stadium
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Sunrisers Hyderabad vs Kolkata Knight Riders - Indian Premier League 2020 Round 5
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201018T140000Z
+DTEND:20201018T170000Z
+DTSTAMP:20200923T065958Z
+UID:1278947@fixturedownload.com
+CREATED:20200907T130438Z
+DESCRIPTION:Mumbai Indians vs Kings XI Punjab\nIndian Premier League 2020 Round 5\nDubai International Cricket Stadium\n18/10/2020 19:30 (UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi
+LAST-MODIFIED:20200907T130438Z
+LOCATION:Dubai International Cricket Stadium
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Mumbai Indians vs Kings XI Punjab - Indian Premier League 2020 Round 5
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201019T140000Z
+DTEND:20201019T170000Z
+DTSTAMP:20200923T065958Z
+UID:1278948@fixturedownload.com
+CREATED:20200907T130438Z
+DESCRIPTION:Chennai Super Kings vs Rajasthan Royals\nIndian Premier League 2020 Round 5\nSheikh Zayed Stadium\n19/10/2020 19:30 (UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi
+LAST-MODIFIED:20200907T130438Z
+LOCATION:Sheikh Zayed Stadium
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Chennai Super Kings vs Rajasthan Royals - Indian Premier League 2020 Round 5
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201020T140000Z
+DTEND:20201020T170000Z
+DTSTAMP:20200923T065958Z
+UID:1278949@fixturedownload.com
+CREATED:20200907T130438Z
+DESCRIPTION:Kings XI Punjab vs Delhi Capitals\nIndian Premier League 2020 Round 5\nDubai International Cricket Stadium\n20/10/2020 19:30 (UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi
+LAST-MODIFIED:20200907T130438Z
+LOCATION:Dubai International Cricket Stadium
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Kings XI Punjab vs Delhi Capitals - Indian Premier League 2020 Round 5
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201021T140000Z
+DTEND:20201021T170000Z
+DTSTAMP:20200923T065958Z
+UID:1278950@fixturedownload.com
+CREATED:20200907T130438Z
+DESCRIPTION:Kolkata Knight Riders vs Royal Challengers Bangalore\nIndian Premier League 2020 Round 5\nSheikh Zayed Stadium\n21/10/2020 19:30 (UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi
+LAST-MODIFIED:20200907T130438Z
+LOCATION:Sheikh Zayed Stadium
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Kolkata Knight Riders vs Royal Challengers Bangalore - Indian Premier League 2020 Round 5
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201022T140000Z
+DTEND:20201022T170000Z
+DTSTAMP:20200923T065958Z
+UID:1278951@fixturedownload.com
+CREATED:20200907T130438Z
+DESCRIPTION:Rajasthan Royals vs Sunrisers Hyderabad\nIndian Premier League 2020 Round 5\nDubai International Cricket Stadium\n22/10/2020 19:30 (UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi
+LAST-MODIFIED:20200907T130438Z
+LOCATION:Dubai International Cricket Stadium
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Rajasthan Royals vs Sunrisers Hyderabad - Indian Premier League 2020 Round 5
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201023T140000Z
+DTEND:20201023T170000Z
+DTSTAMP:20200923T065958Z
+UID:1278952@fixturedownload.com
+CREATED:20200907T130438Z
+DESCRIPTION:Chennai Super Kings vs Mumbai Indians\nIndian Premier League 2020 Round 6\nSharjah Cricket Stadium\n23/10/2020 19:30 (UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi
+LAST-MODIFIED:20200907T130438Z
+LOCATION:Sharjah Cricket Stadium
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Chennai Super Kings vs Mumbai Indians - Indian Premier League 2020 Round 6
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201024T100000Z
+DTEND:20201024T130000Z
+DTSTAMP:20200923T065958Z
+UID:1278953@fixturedownload.com
+CREATED:20200907T130438Z
+DESCRIPTION:Kolkata Knight Riders vs Delhi Capitals\nIndian Premier League 2020 Round 6\nSheikh Zayed Stadium\n24/10/2020 15:30 (UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi
+LAST-MODIFIED:20200907T130438Z
+LOCATION:Sheikh Zayed Stadium
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Kolkata Knight Riders vs Delhi Capitals - Indian Premier League 2020 Round 6
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201024T140000Z
+DTEND:20201024T170000Z
+DTSTAMP:20200923T065958Z
+UID:1278954@fixturedownload.com
+CREATED:20200907T130438Z
+DESCRIPTION:Kings XI Punjab vs Sunrisers Hyderabad\nIndian Premier League 2020 Round 6\nDubai International Cricket Stadium\n24/10/2020 19:30 (UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi
+LAST-MODIFIED:20200907T130438Z
+LOCATION:Dubai International Cricket Stadium
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Kings XI Punjab vs Sunrisers Hyderabad - Indian Premier League 2020 Round 6
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201025T100000Z
+DTEND:20201025T130000Z
+DTSTAMP:20200923T065958Z
+UID:1278955@fixturedownload.com
+CREATED:20200907T130438Z
+DESCRIPTION:Royal Challengers Bangalore vs Chennai Super Kings\nIndian Premier League 2020 Round 6\nDubai International Cricket Stadium\n25/10/2020 15:30 (UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi
+LAST-MODIFIED:20200907T130438Z
+LOCATION:Dubai International Cricket Stadium
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Royal Challengers Bangalore vs Chennai Super Kings - Indian Premier League 2020 Round 6
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201025T140000Z
+DTEND:20201025T170000Z
+DTSTAMP:20200923T065958Z
+UID:1278956@fixturedownload.com
+CREATED:20200907T130438Z
+DESCRIPTION:Rajasthan Royals vs Mumbai Indians\nIndian Premier League 2020 Round 6\nSheikh Zayed Stadium\n25/10/2020 19:30 (UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi
+LAST-MODIFIED:20200907T130438Z
+LOCATION:Sheikh Zayed Stadium
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Rajasthan Royals vs Mumbai Indians - Indian Premier League 2020 Round 6
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201026T140000Z
+DTEND:20201026T170000Z
+DTSTAMP:20200923T065958Z
+UID:1278957@fixturedownload.com
+CREATED:20200907T130438Z
+DESCRIPTION:Kolkata Knight Riders vs Kings XI Punjab\nIndian Premier League 2020 Round 6\nSharjah Cricket Stadium\n26/10/2020 19:30 (UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi
+LAST-MODIFIED:20200907T130438Z
+LOCATION:Sharjah Cricket Stadium
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Kolkata Knight Riders vs Kings XI Punjab - Indian Premier League 2020 Round 6
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201027T140000Z
+DTEND:20201027T170000Z
+DTSTAMP:20200923T065958Z
+UID:1278958@fixturedownload.com
+CREATED:20200907T130438Z
+DESCRIPTION:Sunrisers Hyderabad vs Delhi Capitals\nIndian Premier League 2020 Round 6\nDubai International Cricket Stadium\n27/10/2020 19:30 (UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi
+LAST-MODIFIED:20200907T130438Z
+LOCATION:Dubai International Cricket Stadium
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Sunrisers Hyderabad vs Delhi Capitals - Indian Premier League 2020 Round 6
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201028T140000Z
+DTEND:20201028T170000Z
+DTSTAMP:20200923T065958Z
+UID:1278959@fixturedownload.com
+CREATED:20200907T130438Z
+DESCRIPTION:Mumbai Indians vs Royal Challengers Bangalore\nIndian Premier League 2020 Round 6\nSheikh Zayed Stadium\n28/10/2020 19:30 (UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi
+LAST-MODIFIED:20200907T130438Z
+LOCATION:Sheikh Zayed Stadium
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Mumbai Indians vs Royal Challengers Bangalore - Indian Premier League 2020 Round 6
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201029T140000Z
+DTEND:20201029T170000Z
+DTSTAMP:20200923T065958Z
+UID:1278960@fixturedownload.com
+CREATED:20200907T130438Z
+DESCRIPTION:Chennai Super Kings vs Kolkata Knight Riders\nIndian Premier League 2020 Round 7\nDubai International Cricket Stadium\n29/10/2020 19:30 (UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi
+LAST-MODIFIED:20200907T130438Z
+LOCATION:Dubai International Cricket Stadium
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Chennai Super Kings vs Kolkata Knight Riders - Indian Premier League 2020 Round 7
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201030T140000Z
+DTEND:20201030T170000Z
+DTSTAMP:20200923T065958Z
+UID:1278961@fixturedownload.com
+CREATED:20200907T130438Z
+DESCRIPTION:Kings XI Punjab vs Rajasthan Royals\nIndian Premier League 2020 Round 7\nSheikh Zayed Stadium\n30/10/2020 19:30 (UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi
+LAST-MODIFIED:20200907T130438Z
+LOCATION:Sheikh Zayed Stadium
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Kings XI Punjab vs Rajasthan Royals - Indian Premier League 2020 Round 7
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201031T100000Z
+DTEND:20201031T130000Z
+DTSTAMP:20200923T065958Z
+UID:1278962@fixturedownload.com
+CREATED:20200907T130438Z
+DESCRIPTION:Delhi Capitals vs Mumbai Indians\nIndian Premier League 2020 Round 7\nDubai International Cricket Stadium\n31/10/2020 15:30 (UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi
+LAST-MODIFIED:20200907T130438Z
+LOCATION:Dubai International Cricket Stadium
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Delhi Capitals vs Mumbai Indians - Indian Premier League 2020 Round 7
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201031T140000Z
+DTEND:20201031T170000Z
+DTSTAMP:20200923T065958Z
+UID:1278963@fixturedownload.com
+CREATED:20200907T130438Z
+DESCRIPTION:Royal Challengers Bangalore vs Sunrisers Hyderabad\nIndian Premier League 2020 Round 7\nSharjah Cricket Stadium\n31/10/2020 19:30 (UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi
+LAST-MODIFIED:20200907T130438Z
+LOCATION:Sharjah Cricket Stadium
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Royal Challengers Bangalore vs Sunrisers Hyderabad - Indian Premier League 2020 Round 7
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201101T100000Z
+DTEND:20201101T130000Z
+DTSTAMP:20200923T065958Z
+UID:1278964@fixturedownload.com
+CREATED:20200907T130438Z
+DESCRIPTION:Chennai Super Kings vs Kings XI Punjab\nIndian Premier League 2020 Round 7\nSheikh Zayed Stadium\n01/11/2020 15:30 (UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi
+LAST-MODIFIED:20200907T130438Z
+LOCATION:Sheikh Zayed Stadium
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Chennai Super Kings vs Kings XI Punjab - Indian Premier League 2020 Round 7
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201101T140000Z
+DTEND:20201101T170000Z
+DTSTAMP:20200923T065958Z
+UID:1278965@fixturedownload.com
+CREATED:20200907T130438Z
+DESCRIPTION:Kolkata Knight Riders vs Rajasthan Royals\nIndian Premier League 2020 Round 7\nDubai International Cricket Stadium\n01/11/2020 19:30 (UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi
+LAST-MODIFIED:20200907T130438Z
+LOCATION:Dubai International Cricket Stadium
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Kolkata Knight Riders vs Rajasthan Royals - Indian Premier League 2020 Round 7
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201102T140000Z
+DTEND:20201102T170000Z
+DTSTAMP:20200923T065958Z
+UID:1278966@fixturedownload.com
+CREATED:20200907T130438Z
+DESCRIPTION:Delhi Capitals vs Royal Challengers Bangalore\nIndian Premier League 2020 Round 7\nSheikh Zayed Stadium\n02/11/2020 19:30 (UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi
+LAST-MODIFIED:20200907T130438Z
+LOCATION:Sheikh Zayed Stadium
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Delhi Capitals vs Royal Challengers Bangalore - Indian Premier League 2020 Round 7
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20201103T140000Z
+DTEND:20201103T170000Z
+DTSTAMP:20200923T065958Z
+UID:1278967@fixturedownload.com
+CREATED:20200907T130438Z
+DESCRIPTION:Sunrisers Hyderabad vs Mumbai Indians\nIndian Premier League 2020 Round 7\nSharjah Cricket Stadium\n03/11/2020 19:30 (UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi
+LAST-MODIFIED:20200907T130438Z
+LOCATION:Sharjah Cricket Stadium
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Sunrisers Hyderabad vs Mumbai Indians - Indian Premier League 2020 Round 7
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
